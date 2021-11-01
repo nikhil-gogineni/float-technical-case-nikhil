@@ -1,0 +1,13 @@
+.menuContainer {
+  min-width: 120px;
+  margin-right: 5px;
+}
+
+.container {
+  display: flex;
+}
+
+.container label {
+  display: block;
+  color: gray;
+}
